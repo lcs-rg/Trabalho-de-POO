@@ -1,0 +1,4 @@
+Lucas;10;10
+Lucas;1;10
+Guerra;1;10
+Masc;1;10

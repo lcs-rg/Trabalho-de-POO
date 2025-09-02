@@ -1,0 +1,3 @@
+Lucas;1;10
+Eduardo;3;6
+Evelyn;3;10
